@@ -1,3 +1,5 @@
+# successful attempt
+
 with open("advent-of-code/2024/input/1.txt","r") as inp:
 
     list1, list2 = [], []
