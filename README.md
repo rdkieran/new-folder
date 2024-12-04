@@ -7,6 +7,6 @@ New Folder is for all the little things. Something to quantify my progress from 
 | Year | Day | Part | Pass | Fail |
 | ---- | --- | ---- | ---- | ---- |
 | 2024 | 1   | 1    | x    |      |
-|      |     | 2    | x    |      |
-|      | 2   | 1    | x    |      |
-|      |     | 2    |      | x    |
+| ^    | ^   | 2    | x    |      |
+| ^    | 2   | 1    | x    |      |
+| ^    | ^   | 2    |      | x    |
